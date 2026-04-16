@@ -31,6 +31,7 @@ SentinelOne further strengthens detection accuracy through native threat intelli
     - Leader in Unified Agentic Defense, Data Securutiy [Documentation](https://www.sentinelone.com/lp/sacr-uadp-report/)
     - Upcoming Events [May 2026](https://www.sentinelone.com/lp/cyber-forum-threat-intel/)
     - Tour Products, including [Dashboard](https://www.sentinelone.com/tour/?tour=ihhgqs0hcsd2&utm_campaign=701uw000016qakcyag&utm_source=sales-enablement&utm_medium=email&utm_content=ser-cyber-forum-threat-intel-nam&utm_term=undefined&gclid=undefined)
+- Threat Report from [SentinelOne](https://www.sentinelone.com/resources/ebooks/assets/threat-intel-program-fy27/tdr-annual-threat-report-25-en?utm_medium=email&utm_source=email-marketing&utm_campaign=701uw00000wz7jeyac&utm_content=rsac-2026-post-2)
   
 
 
