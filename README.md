@@ -11,6 +11,10 @@
     - GEN-AI & Agentic Threats
     - Attack Dimensions
     - Attacker Goals
+- Prompt Injections:
+    - AI Agent Threats and Inputs & Interactions Attacks... Direct Prompt Injections(Jailbreaking)
+    - Execution & Behavioral Risk... Agent hijacking / Drift
+    - Data & Knowledge Base Vulnerabilties... Data Exfiltration 
 
 #### Name | [Company](link)
 - Generation information from the speaker here
